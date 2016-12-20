@@ -1,0 +1,1 @@
+{ "options" : { "create" : "beacon_collection" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "beacon.beacon_collection", "name" : "_id_" } ] }
